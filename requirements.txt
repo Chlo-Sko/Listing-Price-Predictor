@@ -1,7 +1,6 @@
 anaconda
 bqplot
 conda
-conda-forge
 Flask
 ipykernel
 ipython
