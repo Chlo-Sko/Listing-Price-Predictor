@@ -3,6 +3,7 @@ bqplot
 conda
 Flask
 ipykernel
+ipympl
 ipython
 ipython-genutils
 ipyvolume
