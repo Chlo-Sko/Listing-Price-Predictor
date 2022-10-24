@@ -1,7 +1,9 @@
 anaconda
 conda
 Flask
+ipykernal
 ipython
+ipython-genutils
 ipywidgets
 Jinja2
 joblib
@@ -9,6 +11,7 @@ jovian
 jupyter
 kaggle
 matplotlib
+matplotlib-inline
 numpy
 pandas
 plotly
