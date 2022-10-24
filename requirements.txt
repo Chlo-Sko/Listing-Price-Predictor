@@ -1,9 +1,12 @@
 anaconda
+bqplot
 conda
+conda-forge
 Flask
 ipykernel
 ipython
 ipython-genutils
+ipyvolume
 ipywidgets
 Jinja2
 joblib
