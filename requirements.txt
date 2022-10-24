@@ -6,6 +6,7 @@ ipykernel
 ipympl
 ipython
 ipython-genutils
+ipyupload
 ipyvolume
 ipywidgets
 Jinja2
