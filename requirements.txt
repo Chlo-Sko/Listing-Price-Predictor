@@ -3,7 +3,6 @@ bqplot
 certifi
 chardet
 conda
-distribute
 Flask
 gunicorn
 ipykernel
