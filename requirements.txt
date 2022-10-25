@@ -1,7 +1,11 @@
 anaconda
 bqplot
+certifi
+chardet
 conda
+distribute
 Flask
+gunicorn
 ipykernel
 ipympl
 ipython
@@ -19,7 +23,9 @@ matplotlib-inline
 numpy
 pandas
 plotly
+requests
 scikit-learn
 scipy
 seaborn
 voila
+Werkzeug
