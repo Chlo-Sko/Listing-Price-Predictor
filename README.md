@@ -19,12 +19,12 @@ Realty agents to utilize, the agents will save time, providing higher level serv
 to their current clients and allowing them to take on more, resulting in higher
 profits for Welcome Home Realty.
 
-##Outline Of Data Product
+## Outline Of Data Product
 The listing price calculator allows agents to enter brief information about the
 property and outputs an accurate listing price range based on over 800,000 data
 entries collected and updated weekly throughout the United States.
 
-##Description Of Data
+## Description Of Data
 The implementation of this listing price calculator will require real estate
 listing data including the square footage, acreage, as well as bedroom
 and bathroom counts of houses currently listed and recently sold in the
